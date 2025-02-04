@@ -63,7 +63,6 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt32&show_icons=true&locale=en&layout=compact&theme=dark" alt="xt32" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&count_private=true&include_all_commits=true&show_icons=true&locale=en&theme=dark" alt="xt32" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&count_private=true&include_all_commits=true&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="xt32" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true&hide_rank=true&year=2025" alt="Total Commits 2025" /></p>
-
