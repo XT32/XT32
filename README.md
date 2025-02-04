@@ -53,12 +53,6 @@
   </a> 
 </p>
 
-<p align="left">
-  <a href="https://github.com/XT32">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="xt32" width="40" height="40"/>
-  </a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt32&show_icons=true&locale=en&layout=compact&theme=dark" alt="xt32" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&count_private=true&include_all_commits=true&show_icons=true&locale=en&theme=dark" alt="xt32" /></p>
