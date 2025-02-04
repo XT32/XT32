@@ -59,7 +59,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt32&show_icons=true&locale=en&layout=compact&theme=dark" alt="xt32" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xt32&theme=dark&show_icons=true&show_icons=true&locale=en&layout=compact&theme=dark" alt="xt32" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&show_icons=true&locale=en&theme=dark" alt="xt32" /></p>
 
