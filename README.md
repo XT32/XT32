@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Chandra Rizki</h1>
 <h3 align="center">I'm interested in back end developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **Home Server with Cloudflared Tunnels**
+
+- 🌱 I’m currently learning **Laravel, CICD**
+
+// <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
