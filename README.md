@@ -64,3 +64,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&count_private=true&include_all_commits=true&show_icons=true&locale=en&theme=dark" alt="xt32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xt32&theme=dark" alt="xt32" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&count_private=true&include_all_commits=true&show_icons=true&locale=en&theme=dark" alt="Total Commits" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&count_private=true&include_all_commits=true&show_icons=true&locale=en&theme=dark&year=2025" alt="Total Commits 2025" /></p>
+
