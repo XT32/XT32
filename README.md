@@ -4,10 +4,13 @@
 - 🔭 I’m currently working on **Home Server with Cloudflared Tunnels**
 - 🌱 I’m currently learning **Laravel, CICD**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left"></p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
@@ -50,8 +53,14 @@
   </a> 
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/XT32">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="xt32" width="40" height="40"/>
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt32&show_icons=true&locale=en&layout=compact" alt="xt32" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xt32&show_icons=true&locale=en" alt="xt32" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xt32&" alt="xt32" /></p>
