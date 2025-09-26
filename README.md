@@ -7,7 +7,7 @@
 
 <div align="center">
   
-### 🎯 **Backend Developer | Tech Enthusiast | Problem Solver**
+### Backend Developer (Laravel/PHP) · DevOps · IoT**
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=XT32.XT32)](https://github.com/XT32)
 [![GitHub followers](https://img.shields.io/github/followers/XT32?label=Follow&style=social)](https://github.com/XT32)
@@ -64,6 +64,15 @@ const currentFocus = {
 </p>
 
 </div>
+
+## 🛰️ DevOps & Infra (GUI-First Ready)
+- **CI/CD:** GitHub Actions & GitLab CI (UI artifacts, env promotion, cron)
+- **Deploy:** Docker Compose + Portainer (zero-downtime via rolling update)
+- **Edge/Security:** Cloudflare Tunnels + Zero Trust (SSO, access policy)
+- **Server:** Nginx reverse proxy (NPM UI) • UFW profile templates
+- **Observability:** Portainer logs/events • (opsional) Dozzle/UI logs ringan
+- **Backups:** MariaDB/MySQL dump schedule + retention (GUI trigger via Portainer)
+
 
 ---
 
