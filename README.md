@@ -9,7 +9,6 @@
   
 ### Backend Developer (Laravel/PHP) · DevOps · IoT
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=XT32.XT32)](https://github.com/XT32)
 [![GitHub followers](https://img.shields.io/github/followers/XT32?label=Follow&style=social)](https://github.com/XT32)
 
 </div>
