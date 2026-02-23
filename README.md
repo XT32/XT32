@@ -90,12 +90,9 @@ const currentFocus = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=XT32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=XT32&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=XT32&theme=tokyonight&hide_border=true)](https://github.com/XT32)
 
 </div>
